@@ -14,3 +14,6 @@ There are aab file and apk file in there.
 You can try this app installing app-release.apk
 
 
+<img src="https://github.com/user-attachments/assets/4a599a77-f589-4ebd-a769-45fee4d583a2" width="150" />
+<img src="https://github.com/user-attachments/assets/54066cbb-fde5-4757-b80d-f3d8780a72a8" width="150" />
+
