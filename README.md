@@ -8,3 +8,9 @@ Features
 - ✅ Form Validations: Ensure accurate expense input with validation.
 - 🖼️ Custom App Icon: Personalize your app with a custom icon.
 - 💾 Local Storage: Store your expense data locally using the Hive package.
+
+
+There are aab file and apk file in there. 
+You can try this app installing app-release.apk
+
+
